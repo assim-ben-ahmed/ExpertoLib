@@ -27,36 +27,25 @@ It includes role-based dashboards, appointment booking flows, and status trackin
 
 ### Sign In
 
-```markdown
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0918067-c6e7-4c1f-bcb0-77e59323ee81" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/747c8164-8603-4560-9202-e98eac6857cb" />
-```
 
 ### Owner Dashboard
 
-```markdown
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2710ccf2-d011-45dd-8ae6-adf12b286b66" />
-
-```
 
 ### Book Appointment
 
-```markdown
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6dcde18-3d05-4b18-8d2c-fc5d8ac6f74e" />
-```
 
 ### Appointment Confirmation
 
-```markdown
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03853dbe-98dc-43f6-8f49-3ef22fbee626" />
-```
 
 ### Expert Dashboard
 
-```markdown
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/386e3df1-7281-4b64-9c5d-3c42dc721f4b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/803e4d92-f1d5-45e9-9afd-5d794d9da656" />
-```
 
 ## Tech Stack
 
